@@ -1,4 +1,4 @@
-# OctaNet Web Development Internship
+# Web Development Internship
 
 Welcome to my repository showcasing the completion of my web development internship at OctaNet. During this internship, I successfully completed three main tasks: creating a landing page, developing a todo list application, and cloning a webpage from the BCC website. Below, you'll find details about each task along with the corresponding code.
 
