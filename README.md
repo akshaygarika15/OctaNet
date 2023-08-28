@@ -5,6 +5,7 @@ Welcome to my repository showcasing the completion of my web development interns
 ## Task 1: Landing Page
 
 In this task, I designed and developed a captivating landing page to welcome users to the website. The landing page introduces the purpose of the website and provides easy navigation to other sections.
+link for Landing page: https://akshaygarika15.github.io/OctaNet/Landing%20Page/
 
 **Key Components:**
 - `index.html`: Main HTML file for the landing page.
