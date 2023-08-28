@@ -1,11 +1,11 @@
 # Web Development Internship
 
-Welcome to my repository showcasing the completion of my web development internship at OctaNet. During this internship, I successfully completed three main tasks: creating a landing page, developing a todo list application, and cloning a webpage from the BCC website. Below, you'll find details about each task along with the corresponding code.
+Welcome to my repository showcasing the completion of my web development internship at OctaNet. During this internship, I successfully completed three main tasks: creating a landing page, developing a to-do list application, and cloning a webpage from the BCC website. Below, you'll find details about each task along with the corresponding code.
 
 ## Task 1: Landing Page
 
 In this task, I designed and developed a captivating landing page to welcome users to the website. The landing page introduces the purpose of the website and provides easy navigation to other sections.
-link for Landing page: https://akshaygarika15.github.io/OctaNet/Landing%20Page/
+Link for Landing page: https://akshaygarika15.github.io/OctaNet/Landing%20Page/
 
 **Key Components:**
 - `index.html`: Main HTML file for the landing page.
@@ -15,6 +15,7 @@ link for Landing page: https://akshaygarika15.github.io/OctaNet/Landing%20Page/
 ## Task 2: Todo List Application
 
 I created a dynamic to-do list application that allows users to add, manage, and complete tasks. This project demonstrates my skills in front-end development and user interaction.
+Link for To-do list application: https://akshaygarika15.github.io/OctaNet/To-do-list/
 
 **Key Components:**
 - `todo.html`: HTML structure for the todo list application.
@@ -23,7 +24,7 @@ I created a dynamic to-do list application that allows users to add, manage, and
 
 ## Task 3: Website Clone (BCC)
 
-For this task, I successfully cloned a webpage from the British Broadcasting Corporation (BCC) website. This involved replicating both the design and functionality of the original page.
+For this task, I successfully cloned a webpage from the British Broadcasting Corporation (BCC) website. This involved replicating both the design and functionality of the original page. Link for Website clone: https://akshaygarika15.github.io/OctaNet/website%20clone/
 
 **Key Components:**
 - Multiple HTML, CSS, and JavaScript files: Recreating the structure, styling, and interactions of the cloned BCC page.
